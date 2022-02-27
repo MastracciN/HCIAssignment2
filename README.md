@@ -8,9 +8,9 @@ It also allows users to connect with eachother in chats grouped by shared course
 
 Public URL Figma design: https://www.figma.com/file/sdjTrlrzLptQbPmSio1OEh/Assignment-2?node-id=0%3A1
 
-Top five new desirable functionalities: \n
-1.
-2.
+Top five new desirable functionalities: 
+1. File streaming, share files live with others
+2. 
 3.
 4.
 5.
