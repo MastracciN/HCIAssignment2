@@ -8,9 +8,13 @@ It also allows users to connect with eachother in chats grouped by shared course
 
 Public URL Figma design: https://www.figma.com/file/sdjTrlrzLptQbPmSio1OEh/Assignment-2?node-id=0%3A1
 
+Prototype video: https://sheridanc-my.sharepoint.com/:v:/g/personal/mastracn_shernet_sheridancollege_ca/EUQ0APim-sJKoq70hMADvxYBF33Imgzo50AV8U2u7nhq0g?e=DZBJIh
+
+Video: 
+
 Top five new desirable functionalities: 
 1. File streaming, share files live with others
-2. 
-3.
-4.
-5.
+2. Course swapping, dropping
+3. Connect directly to tutors of course
+4. Professor chat
+5. Chat to connect with previous students
