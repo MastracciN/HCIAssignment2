@@ -1,4 +1,5 @@
-# HCIAssignment2
+# HCIAssignment2 + 3
+A2
 Sheridan Course App
 
 The Sheridan Course App allows users to manage and submit their assignments pin each of their courses. 
@@ -18,3 +19,16 @@ Top five new desirable functionalities:
 3. Connect directly to tutors of course
 4. Professor chat
 5. Chat to connect with previous students
+
+A3
+
+![image](https://user-images.githubusercontent.com/38020285/161331199-642f9521-8118-4b2c-bc30-63ccdae0ee97.png)
+
+The Sheridan Course App allows users to manage and submit their assignments pin each of their courses. 
+It also allows users to connect with eachother in chats grouped by shared courses.
+
+Figma: https://www.figma.com/file/W8OlhnpboGrrF9uVGlJApe/Assignment-3?node-id=0%3A1
+
+Volunteer 1 Video: https://sheridanc-my.sharepoint.com/✌️/g/personal/mastracn_shernet_sheridancollege_ca/EQbapvpUsWZLmrHaPNMcPWYBlvflxSobuAn4sO3HxfPHOg?e=2pgjrT
+
+Volunteer 2 Video: https://sheridanc-my.sharepoint.com/✌️/g/personal/mastracn_shernet_sheridancollege_ca/ESFaWLJUD_pPtyoL41zhYJ0BggmKE2BCwOOdXm8bsLcB8A?e=hpJXVh
