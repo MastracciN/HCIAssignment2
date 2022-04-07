@@ -1,4 +1,7 @@
-# HCIAssignment2 + 3
+# HCIAssignment 1 + 2 + 3
+A1
+Figma: https://www.figma.com/file/RnSzcHmDGq43TA2bLFHstp/Assignment1
+
 A2
 Sheridan Course App
 
